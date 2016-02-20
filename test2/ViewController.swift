@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    
     let name : String = "cheese"
     let age : Int = 7
     let weight : Double = 8.2
