@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("과제 1. \(personInformation())")
         print("과제 2. 200과 23의 합입니다. \(sum(200, num2: 23))")
         print("과제 3. 552과 73의 곱입니다.\(Multiplication(552, num2: 73))")
+        print("test 수정 입니다.")
     }
     
     override func didReceiveMemoryWarning() {
